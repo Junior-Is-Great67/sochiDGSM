@@ -267,6 +267,7 @@ while True:
     os.system("clear")
     print("*** sochiDG ***")
     print("Script by Turlum25")
+    print("Version 0.1")
     print()
     print("1 > Downgrade")
     print("2 > Hactivate iPhone")
