@@ -3,3 +3,5 @@
 sochiDGSM is a fork of sochiDG with the same functionality except this one supports the GSM models.
 
 The instructions can be found on the original repository.
+
+Nothing has been done to the repo yet however to be classified as "working". The README will be updated to account on any updates with functionality.
